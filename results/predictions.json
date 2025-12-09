@@ -1,0 +1,164 @@
+{
+  "reverseWaybill-156387426414724544_1.jpg": {
+    "extracted_text": "156387426414724544_1",
+    "found": true,
+    "variant": "primary-rot90-bin",
+    "confidence": 0.9942085146903992
+  },
+  "reverseWaybill-160390797970200578_1.jpg": {
+    "extracted_text": "160390797970200578_1-gsm",
+    "found": true,
+    "variant": "primary-rot270-gray",
+    "confidence": 0.9539861679077148
+  },
+  "reverseWaybill-161462098390505344_1.jpg": {
+    "extracted_text": null,
+    "found": false,
+    "variant": "orig",
+    "confidence": -1.0
+  },
+  "reverseWaybill-161820476409495744_1.jpg": {
+    "extracted_text": "161820476409495744_1",
+    "found": true,
+    "variant": "primary-orig-gray",
+    "confidence": 0.9838804006576538
+  },
+  "reverseWaybill-161827124813349056_1.jpg": {
+    "extracted_text": "COID:161827124813349056_1bmd",
+    "found": true,
+    "variant": "primary-orig-gray",
+    "confidence": 0.9712437987327576
+  },
+  "reverseWaybill-161889931202248896_1.jpg": {
+    "extracted_text": "161889931202248896_1_brz",
+    "found": true,
+    "variant": "primary-rot270-gray",
+    "confidence": 0.9530237317085266
+  },
+  "reverseWaybill-162107205368239936_1.jpg": {
+    "extracted_text": "162107205368239936_1_vr",
+    "found": true,
+    "variant": "primary-orig-bin",
+    "confidence": 0.967864990234375
+  },
+  "reverseWaybill-162127075969633920_1.jpg": {
+    "extracted_text": null,
+    "found": false,
+    "variant": "orig",
+    "confidence": -1.0
+  },
+  "reverseWaybill-162533794288078400_1.jpg": {
+    "extracted_text": "Tn7nz8mu7e40_1_It",
+    "found": true,
+    "variant": "fallback-rot270-bin",
+    "confidence": 0.020354229684862977
+  },
+  "reverseWaybill-162563926371110528_1.jpg": {
+    "extracted_text": "162563926371110528_1_rcr",
+    "found": true,
+    "variant": "primary-orig-gray",
+    "confidence": 0.9554305076599121
+  },
+  "reverseWaybill-162590579457558528_1.jpg": {
+    "extracted_text": null,
+    "found": false,
+    "variant": "orig",
+    "confidence": -1.0
+  },
+  "reverseWaybill-162822952260583552_1.jpg": {
+    "extracted_text": "162822952260583552_1",
+    "found": true,
+    "variant": "primary-rot90-bin",
+    "confidence": 0.9994139671325684
+  },
+  "reverseWaybill-163138358833942080_1.jpg": {
+    "extracted_text": null,
+    "found": false,
+    "variant": "orig",
+    "confidence": -1.0
+  },
+  "reverseWaybill-163167305864402752_1.jpg": {
+    "extracted_text": "163167305864402752_1_ahr",
+    "found": true,
+    "variant": "primary-orig-bin",
+    "confidence": 0.974033772945404
+  },
+  "reverseWaybill-163168391573114432_1.jpg": {
+    "extracted_text": "163168391573114432_1_ir0",
+    "found": true,
+    "variant": "primary-rot180-gray",
+    "confidence": 0.9627149701118469
+  },
+  "reverseWaybill-163233702292313922_1.jpg": {
+    "extracted_text": "163233702292313922_1-1wV",
+    "found": true,
+    "variant": "primary-rot90-bin",
+    "confidence": 0.9626758694648743
+  },
+  "reverseWaybill-163253278646505088_1.jpg": {
+    "extracted_text": null,
+    "found": false,
+    "variant": "orig",
+    "confidence": -1.0
+  },
+  "reverseWaybill-163278430531063296_1.jpg": {
+    "extracted_text": "163278430531063296_1.cs",
+    "found": true,
+    "variant": "primary-orig-gray",
+    "confidence": 0.9262756705284119
+  },
+  "reverseWaybill-163513920653659776_1.jpg": {
+    "extracted_text": "16:15139206536597. 6_1_zqW",
+    "found": true,
+    "variant": "primary-rot180-dilate",
+    "confidence": 0.906859815120697
+  },
+  "reverseWaybill-163575804188803200_1.jpg": {
+    "extracted_text": "163575804188803200_1",
+    "found": true,
+    "variant": "primary-rot270-gray",
+    "confidence": 0.9911074638366699
+  },
+  "reverseWaybill-163629705512179520_1.jpg": {
+    "extracted_text": "163629705512179520_1-1ps",
+    "found": true,
+    "variant": "primary-rot90-dilate",
+    "confidence": 0.9791486859321594
+  },
+  "reverseWaybill-163869082838745216_1.jpg": {
+    "extracted_text": "163869082838745216_1",
+    "found": true,
+    "variant": "primary-orig-bin",
+    "confidence": 0.9990106821060181
+  },
+  "reverseWaybill-164010403918364801_1.jpg": {
+    "extracted_text": null,
+    "found": false,
+    "variant": "orig",
+    "confidence": -1.0
+  },
+  "reverseWaybill-164032400488224576_1.jpg": {
+    "extracted_text": "164032400488224576_1",
+    "found": true,
+    "variant": "primary-rot90-dilate",
+    "confidence": 0.9995975494384766
+  },
+  "reverseWaybill-164219522434499264_1.jpg": {
+    "extracted_text": "164219522434499264_1",
+    "found": true,
+    "variant": "primary-orig-dilate",
+    "confidence": 0.9983144998550415
+  },
+  "reverseWaybill-164659046174134464_1.jpg": {
+    "extracted_text": "164659046174134464_1_kwuu",
+    "found": true,
+    "variant": "primary-orig-dilate",
+    "confidence": 0.9520758986473083
+  },
+  "reverseWaybill-164712656358576320_1.jpg": {
+    "extracted_text": "164712656358576320_1_",
+    "found": true,
+    "variant": "primary-rot270-gray",
+    "confidence": 0.9673508405685425
+  }
+}
